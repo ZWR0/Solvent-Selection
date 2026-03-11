@@ -1,4 +1,4 @@
-# Machine Learning-Guided Solvent Engineering for Broadening the Ambient Temperature Window of Antisolvent-Free Perovskite Fabrication
+# Beyond Rapid Nucleation: Unveiling the Role of Solvent Precursor Interactions in Antisolvent-Free Perovskite Fabrication
 This repository contains the code associated with the research paper:
 
 ### "Machine Learning-Guided Solvent Engineering for Broadening the Ambient Temperature Window of Antisolvent-Free Perovskite Fabrication"
